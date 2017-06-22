@@ -1,0 +1,15 @@
+/*
+howdy 
+*/
+
+h1, p {
+  color: DarkSlateGray;
+}
+
+p {
+  font-size: 18px;
+}
+
+* {
+  font-family: Georgia;
+}
